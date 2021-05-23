@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunj kanani</h1>
 
-<img align="right" width = "65%" height="400" src="Banner.gif"></img>
+<img align="right" width = "65%" height="350" src="Banner.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjkanani&label=Profile%20views&color=0e75b6&style=flat" alt="kunjkanani" /> </p>
 
 - 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -15,12 +15,11 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kunjkanani.web.app" target="blank"><img align="center" src="https://kunjkanani.web.app/favicon.png" alt="kunjkanani.web.app" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/kunj kanani" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="kunj kanani" height="45" width="45" /></a>
-<a href="https://www.instagram.com/mr__kk08/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="kunj kanani" height="35" width="35" /></a>
-<a href="facebook.com/kunj.kanani.511" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt="kunj kanani" height="33" width="35" /></a>
-</p>
+
+- [![Portfolio:PortFolio](https://img.shields.io/badge/-PortFolio-blueviolet?style=flat-square&logo=Webflow&logoColor=white&link=https://kunjkanani.web.app)](https://kunjkanani.web.app)
+- [![Linkedin:Kunj Kanani](https://img.shields.io/badge/-KunjKanani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunj-kanani/)](https://www.linkedin.com/in/kunj-kanani/)
+- [![Instagram:mr__kk08](https://img.shields.io/badge/-mr__kk08-important?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mr__kk08/)](https://www.instagram.com/mr__kk08/)
+- [![Facebook:Kunj Kanani](https://img.shields.io/badge/-KunjKanani-5442f5?style=flat-square&logo=Facebook&logoColor=white&link=facebook.com/kunj.kanani.511/)](facebook.com/kunj.kanani.511/)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
