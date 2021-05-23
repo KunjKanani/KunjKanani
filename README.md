@@ -97,5 +97,5 @@
 <br>
 <h3 align="left">Github Stats:</h3>
 <p align="center">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=KunjKanani&theme=buefy-dark&hide_border=true" align="left"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=KunjKanani&theme=buefy-dark&hide_border=true" align="left"/>
 </p>
