@@ -17,11 +17,12 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
+<br>
 
-- [![Portfolio:PortFolio](https://img.shields.io/badge/-PortFolio-blueviolet?style=flat-square&logo=Webflow&logoColor=white&link=https://kunjkanani.web.app)](https://kunjkanani.web.app)
-- [![Linkedin:Kunj Kanani](https://img.shields.io/badge/-KunjKanani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunj-kanani/)](https://www.linkedin.com/in/kunj-kanani/)
-- [![Instagram:mr__kk08](https://img.shields.io/badge/-mr__kk08-important?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mr__kk08/)](https://www.instagram.com/mr__kk08/)
-- [![Facebook:Kunj Kanani](https://img.shields.io/badge/-KunjKanani-5442f5?style=flat-square&logo=Facebook&logoColor=white&link=facebook.com/kunj.kanani.511/)](facebook.com/kunj.kanani.511/)
+[![Portfolio:PortFolio](https://img.shields.io/badge/-PortFolio-blueviolet?style=flat-square&logo=Webflow&logoColor=white&link=https://kunjkanani.web.app)](https://kunjkanani.web.app)
+[![Linkedin:Kunj Kanani](https://img.shields.io/badge/-KunjKanani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunj-kanani/)](https://www.linkedin.com/in/kunj-kanani/)
+[![Instagram:mr__kk08](https://img.shields.io/badge/-mr__kk08-important?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mr__kk08/)](https://www.instagram.com/mr__kk08/)
+[![Facebook:Kunj Kanani](https://img.shields.io/badge/-KunjKanani-5442f5?style=flat-square&logo=Facebook&logoColor=white&link=facebook.com/kunj.kanani.511/)](facebook.com/kunj.kanani.511/)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
