@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kunj kanani</h1>
 
-<img align="right" width = "65%" height="350" src="Banner.gif"></img>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjkanani&label=Profile%20views&color=0e75b6&style=flat" alt="kunjkanani" /> </p>
+<img align="left" width = "100%" height="530" src="Banner.gif"/>
+
+<h3>&nbsp</h3>
+<p align="left"><br><img src="https://komarev.com/ghpvc/?username=kunjkanani&label=Profile%20views&color=0e75b6&style=flat" alt="kunjkanani" /> </p>
 
 - 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
