@@ -7,8 +7,6 @@
 
 - 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- 🔭 I’m currently working on **autofy** as flutter intern
-
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/KunjKanani?tab=repositories)**
 
 - 💬 Ask me about **Flutter, PHP**
