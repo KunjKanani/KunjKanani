@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Flutter, PHP**
 
-- 📄 Know about my experiences from my **[Resume](<https://firebasestorage.googleapis.com/v0/b/kunj-kanani.appspot.com/o/Kunj's%20Resume%20(1).pdf?alt=media&token=b757e018-5661-4bac-94df-5750c477d8b4>)**
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <br>
