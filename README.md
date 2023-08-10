@@ -5,11 +5,11 @@
 <h3>&nbsp</h3>
 <p align="left"><br><img src="https://komarev.com/ghpvc/?username=kunjkanani&label=Profile%20views&color=0e75b6&style=flat" alt="kunjkanani" /> </p>
 
-- 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- 👯 I’m looking forward to collaborating on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/KunjKanani?tab=repositories)**
 
-- 💬 Ask me about **Flutter, PHP**
+- 💬 Ask me about **Flutter, ExpressJS**
 
 <br>
 <h3 align="left">Connect with me:</h3>
